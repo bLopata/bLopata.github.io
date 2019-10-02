@@ -5,7 +5,7 @@ title: Portfolio for Little Rock resident and software developer
 author: Ben Lopata
 description: >
   my personal portfolio website
-baseurl: "https://blopata.github.io/"
+baseurl: "https://blopata.github.io"
 
 plugins:
   - jekyll-feed
