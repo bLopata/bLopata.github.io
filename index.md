@@ -22,8 +22,8 @@ linkedin: ben-lopata # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://www.blopata.io # the link
-about_button_label: see more # the label on the button
+about_button: /assets/pdfs/ben_lopata_software_engineer.pdf # the link
+about_button_label: resume # the label on the button
 
 # optional portfolio section ------------------------------------------
 
