@@ -1,17 +1,17 @@
+--- # required, replace with your own information -----
 # _config.yml
 
-# required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
-description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+title: Portfolio for Little Rock resident and software developer
+author: Ben Lopata
+description: >
+  my personal portfolio website
+baseurl: "blopata.github.io/site"
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  
+
 #---------------------------------------------------
 
 exclude:
@@ -20,4 +20,3 @@ exclude:
   - gemfiles/
   - Gemfile
   - Gemfile.lock
-
