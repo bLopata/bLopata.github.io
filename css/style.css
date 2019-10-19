@@ -9,7 +9,7 @@ custom styles adapted from Twenty by HTML5 Up
 /* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #f3f6fa;
+		background: #030303;
 	}
 
 	body.is-loading * {
@@ -490,7 +490,7 @@ custom styles adapted from Twenty by HTML5 Up
 		}
 
 		.wrapper.style3 {
-			background: white;
+			background: rgb(1, 1, 1);
 			color: inherit;
 		}
 
