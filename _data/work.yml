@@ -5,12 +5,8 @@ work:
   - category: Projects
     items:
       - item: example.html
-<<<<<<< HEAD
-        image: images/tree.jpg # optionally, include the file path for an image for each item
+        image: /images/tree.jpg # optionally, include the file path for an image for each item
       - item: example.html
-        image: images/moss.jpg
-=======
-    
->>>>>>> 8fe79b3f6cd3b501aa59afb56c89b25c79c94579
+        image: /images/moss.jpg
       - item: example2.html
-        image: images/sky.jpg
+        image: /images/sky.jpg
