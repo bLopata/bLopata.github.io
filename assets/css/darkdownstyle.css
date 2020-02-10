@@ -53,51 +53,51 @@ h5 {
   color: rgb(186, 185, 179);
 }
 
-
 .hljs-attr {
-    color: inherit;
+  color: inherit;
 }
 
 .language-yaml .hljs-attr {
-    color: #22863a;
+  color: #22863a;
 }
 
 .hljs-meta {
-    color: inherit;
-    font-weight: inherit;
+  color: inherit;
+  font-weight: inherit;
 }
 
-.hljs-comment, .hljs-quote {
-    color: #6a737d;
-    font-style: normal;
+.hljs-comment,
+.hljs-quote {
+  color: #71aaec;
+  font-style: normal;
 }
 
 .hljs-built_in,
 .hljs-number,
 .hljs-literal,
 .hljs-title {
-    color: #005cc5;
-    font-weight: inherit;
+  color: #005cc5;
+  font-weight: inherit;
 }
 
 .hljs-string {
-    color: #032f62;
+  color: #ffffff;
 }
 
 .hljs-params {
-    color: #24292E;
+  color: #24292e;
 }
 
 .hljs-keyword,
 .hljs-function {
-    color: rgb(192, 51, 98);
-    font-weight: inherit;
+  color: rgb(192, 51, 98);
+  font-weight: inherit;
 }
 
 .hljs-function .hljs-title,
 .hljs-class .hljs-title {
-    color: #713dd1;
-    font-weight: inherit;
+  color: #713dd1;
+  font-weight: inherit;
 }
 /* 
 a {
@@ -156,8 +156,8 @@ blockquote {
 blockquote cite {
   font-size: 14px;
   line-height: 20px;
-  /*color: #bfbfbf;*/
-}
+  /*color: #bfbfbf;
+}*/
 blockquote cite:before {
   content: "\2014 \00A0";
 }
@@ -354,4 +354,4 @@ button:active {
 button::-moz-focus-inner {
   padding: 0;
   border: 0;
-} */
+}
