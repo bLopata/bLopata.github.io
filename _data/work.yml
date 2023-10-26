@@ -6,7 +6,7 @@ work:
     items:
       - item: example.html
         image: /images/tree.jpg # optionally, include the file path for an image for each item
-      - item: exampl2e.html
+      - item: example2.html
         image: /images/moss.jpg
       - item: example3.html
         image: /images/sky.jpg
